@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(), react()],
-  base: "/sope-snipes-website/",
+  base: "/sope-snipes-official-website/",
   server: {
     open: true,
     port: 3000,
