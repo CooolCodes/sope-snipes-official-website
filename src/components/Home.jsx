@@ -21,7 +21,6 @@ const Home = () => {
         <a
           className="text-white text-sm md:text-lg font-light tracking-wide transition-all duration-300 hover:opacity-80 px-4 py-2 active:border active:border-white"
           href="#home"
-          end
         >
           Home
         </a>
